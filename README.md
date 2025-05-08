@@ -3,7 +3,7 @@
 A modern, Java-based desktop application to manage a stationery shop’s operations — inspired by the project in [*Object Oriented Programming*](http://dimik.pub/book/588/object-oriented-programming) by [Zohirul Alam Tiemoon](https://github.com/tiemoon).  
 📙 Originally written in **C#** — fully reimagined here in **Java** with Object-Oriented Programming best practices.
 
-![Cover](https://github.com/SulemanMohiuddin/Software_ReEnigneering_Project/raw/main/Stationary-Shop-Management-main/screenshots/cover.png)
+![image](https://github.com/user-attachments/assets/53123e3f-bc82-472f-aec0-b3ee22447341)
 
 ---
 
